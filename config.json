@@ -1,10 +1,11 @@
 {
-    "repository_links" : [
+    "repository_links": [
         "https://github.com/karpitony/eft-where-am-i",
         "https://github.com/karpitony/tarkov-server-finder"
     ],
-    "folder_list" : [
-        
+    "folder_list": [
+        "eft-where-am-i",
+        "tarkov-server-finder"
     ],
-    "last_update" : ""
+    "last_update": "2024-06-30"
 }
