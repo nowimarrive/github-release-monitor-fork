@@ -37,5 +37,9 @@ jobs:
     - name: Git Push
       run: |
           git add .
-          git commit -m "Last Update : $(date '+%Y-%m-%d')"
-          git push
+          if git diff-index --quiet HEAD; then
+            echo "No changes to commit"
+          else
+            git commit -m "Last Update : $(date '+%Y-%m-%d')"
+            git push
+          fi
