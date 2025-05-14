@@ -1,11 +1,13 @@
 {
     "repository_links": [
         "https://github.com/karpitony/eft-where-am-i",
-        "https://github.com/karpitony/tarkov-server-finder"
+        "https://github.com/karpitony/tarkov-server-finder",
+        "https://github.com/karpitony/dgu-ecko"
     ],
     "folder_list": [
         "eft-where-am-i",
-        "tarkov-server-finder"
+        "tarkov-server-finder",
+        "dgu-ecko"
     ],
-    "last_update": "2024-06-30"
+    "last_update": "2025-05-15"
 }
